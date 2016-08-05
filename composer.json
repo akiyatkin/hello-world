@@ -1,0 +1,5 @@
+{
+    "require": {
+        "infrajs/router" : "~1"
+    }
+}

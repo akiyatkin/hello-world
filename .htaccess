@@ -1,0 +1,4 @@
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ vendor/infrajs/router/index.php [L,QSA]
