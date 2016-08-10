@@ -1,4 +1,5 @@
 {
+    "name":"f1u77y/hello-world/",
     "require": {
         "infrajs/router" : "~1"
     }
